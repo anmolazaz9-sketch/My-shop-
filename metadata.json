@@ -1,0 +1,6 @@
+{
+  "name": "Radha Clothes Shop",
+  "description": "Your Style, Your Choice — Indian ethnic & everyday clothing storefront for Men, Women, and Kids from Kushinagar, UP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
